@@ -2,6 +2,8 @@
 
 Santa Clause is coming to town and wants to find out who's been **naughty** or **nice**!
 
+[Click here to enter](https://twitter.com/Asleepace/status/1474669234466672642?s=20)
+
 ## Determination
 
 While it's hard to say *exactly* how Santa determines who's been naughty and who's been nice, what's even more perplexing is that *sometimes* those on the naughty list can change their fortunes... 🤷 
