@@ -1,11 +1,12 @@
 <svg 
     id="eE7yV0g16aS1" 
-    xmlns="http://www.w3.org/2000/svg" 
+    xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink" 
     viewBox="0 0 1024 1024" shape-rendering="geometricPrecision" 
     text-rendering="geometricPrecision" style="background-color:#000">
     <defs>
-        <script xlink:href="./external.js" />
+        <image src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/91525/svg-no.png"
+        xlink:href=""/>
         <filter id="eE7yV0g16aS2-filter" x="-400%" width="600%" y="-400%" height="600%">
         <feGaussianBlur id="eE7yV0g16aS2-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="3,3"/>
         <feOffset id="eE7yV0g16aS2-filter-drop-shadow-0-offset" dx="5" dy="5" result="tmp"/>
